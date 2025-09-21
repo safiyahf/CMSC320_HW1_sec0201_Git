@@ -7,3 +7,7 @@ Q2: What field could data science be applied to? Give an Example.
 
 Answer: In finance, it could be used for tracking spending, utilizations, efficiency, and maximize profits through analysis.
 
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: merging keeps commit history of both branches being merged and makes a new merge commit, rebasing puts the commits in order from each branch and gives them all new ids, so it doesn't preserve commit history. It creates a new one.
+
